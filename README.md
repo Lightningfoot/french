@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/otsfan203/rewrittenSharp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otsfan203/rewrittenSharp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Welcome to Exemplum!
+   Exemplum is a free way to use Scratch 2.0 online. It is still being worked on and is not currently near completion, but a hard draft of Exemplum, one that is usable despite glitches, is due in 2020.
+   ## FAQ
+   Learn about Exemplum through our FAQ.
+   
+   ### How do I use Exemplum?
+           At the moment, Exemplum is close enough to completion to be used - we estimate that you will start to be able to use some features in July, but nothing is known for sure in our current state. If you watch Exemplum, then you will easily be able to track Exemplum's progress. The README file will be updated as time goes on. However, when Exemplum is up and running, it will be published and visible at exemplumscratch.github.io (not up yet).
+       
+   ### How will Exemplum work?
+            Exemplum will rewrite Scratch 2.0's project editor into HTML5, so that it doesn't die after 2020, when Adobe Flash - what 2.0 mods like Sharp and ScratchX run on - will be discontinued. ScratchX and Sharp will not be rewritten, so Exemplum makes the update.
+       
+   ### Are there any requirements?
+           Your browser and computer must support HTML5 (and other HTML5 Player requirements) to run Exemplum. A pdf containing all information on HTML5 requirements as well as a compilation of computers and browsers supporting HTML5 and its requirements is due in March of 2019. Exemplum is free and online.
+    
+   ### Can I save projects made on Exemplum?
+           Since Exemplum doesn't use an account system - it's meant for using 2.0's editor online - the project data isn't saved online. Instead, you have to save it to your file. 
