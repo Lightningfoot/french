@@ -1,4 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{jekyll-theme-architect}}";
+
+header {
+  background-color: #0095FF;
+};
+}
