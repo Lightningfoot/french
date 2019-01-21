@@ -8,7 +8,7 @@
 
 <h3> What is Exemplum? </h3>
 
-   <p> Exemplum is a cross of Scratch 2.0 and 3.0 that contains 3.0 upgrades, such as HTML5 and curved or pointed reshaping, while removing 3.0 downgrades. We also restore some good 2.0 features. We also have plans to add new features as well, such as triangles in Bitmap, a Photomosh extension, and and possibly an Autotracer extension! The idea of Exemplum was created by <a href="https://scratch.mit.edu/users/OTSFan203>OTSFan203</a>, and it is completely online and doesn't require account setup! </p>
+   <p> Exemplum is a cross of Scratch 2.0 and 3.0 that contains 3.0 upgrades, such as HTML5 and curved or pointed reshaping, while removing 3.0 downgrades. We also restore some good 2.0 features. We also have plans to add new features as well, such as triangles in Bitmap, a Photomosh extension, and and possibly an Autotracer extension! The idea of Exemplum was created by <a href="https://scratch.mit.edu/users/OTSFan203">OTSFan203</a>, and it is completely online and doesn't require account setup! </p>
    
 <h3>Can I upload my Exemplum projects to Scratch?</h3>
 
@@ -16,7 +16,7 @@
    
 <h3> Can I contribute to Exemplum? </h3>
 
-   <p> Yes! Exemplum is looking for collaborators, so if you are interested, visit <a href="https://scratch.mit.edu/users/OTSFan203>OTSFan203's Scratch profile</a> and ask to collaborate. <strong> If you do not want to become an ongoing contributor to Exemplum, you can report bugs and glitches as well as make suggestions and ask questions <a href="https://github.com/otsfan203/exemplum/issues">here.</a> </strong> </p>
+   <p> Yes! Exemplum is looking for collaborators, so if you are interested, visit <a href="https://scratch.mit.edu/users/OTSFan203">OTSFan203's Scratch profile</a> and ask to collaborate. <strong> If you do not want to become an ongoing contributor to Exemplum, you can report bugs and glitches as well as make suggestions and ask questions <a href="https://github.com/otsfan203/exemplum/issues">here.</a> </strong> </p>
    
 <h3> What is the current state of Exemplum? </h3>
 
