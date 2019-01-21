@@ -20,7 +20,7 @@
    
 <h3> What is the current state of Exemplum? </h3>
 
-   <p> Exemplum is currently in a Pre-Omega stage. It should be usable once the 1.0 Beta is released. If you have a GitHub account, and are interested in Exemplum, you can <a href="https://github.com/otsfan203/exemplum/">watch the repository</a> for updates. If you don't have a GitHub account and want to be notified when there are significant changes, ask <a href="https://scratch.mit.edu/users/OTSFan203>here.</a> </p>
+   <p> Exemplum is currently in a Pre-Omega stage. It should be usable once the 1.0 Beta is released. If you have a GitHub account, and are interested in Exemplum, you can <a href="https://github.com/otsfan203/exemplum/">watch the repository</a> for updates. If you don't have a GitHub account and want to be notified when there are significant changes, ask <a href="https://scratch.mit.edu/users/OTSFan203> here. </a></p>
    
 <h3> I still have a question! </h3>
 
