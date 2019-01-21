@@ -16,7 +16,7 @@
    
 <h3> Can I contribute to Exemplum? </h3>
 
-   <p> Yes! Exemplum is looking for collaborators, so if you are interested, visit <a href="https://scratch.mit.edu/users/OTSFan203>OTSFan203's Scratch profile</a> and ask to collaborate. <strong> If you do not want to become an ongoing contributor to Exemplum, you can report bugs and glitches as well as make suggestions and ask questions <a href="https://github.com/otsfan203/exemplum/issues">here.</a>
+   <p> Yes! Exemplum is looking for collaborators, so if you are interested, visit <a href="https://scratch.mit.edu/users/OTSFan203>OTSFan203's Scratch profile</a> and ask to collaborate. <strong> If you do not want to become an ongoing contributor to Exemplum, you can report bugs and glitches as well as make suggestions and ask questions <a href="https://github.com/otsfan203/exemplum/issues">here.</a> </strong> </p>
    
 <h3> What is the current state of Exemplum? </h3>
 
