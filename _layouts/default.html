@@ -19,10 +19,10 @@
       <div class="inner">
           <h1> Exemplum </h1>
         {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+          <a href="{{ site.github.repository_url }}" target="_blank" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
         {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+          <a href="{{ site.github.owner_url }}" target="_blank" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
       </div>
     </header>
@@ -31,8 +31,13 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
-          <button> <a href="https://https://otsfan203.github.io/editor/">Try it Out!</button></a>
+          <button onclick="nebraskaFunction()>Try it Out!</button></a>
         </section>
+              <script>
+  function nebraskaFunction() {
+alert("Exemplum has only just began and is currently not available. If you wish to know when major updates on Exemplum are made, follow the link to our GitHub organization.")
+}
+</script>
         
         <aside id="sidebar">
           {% if site.show_downloads %}
