@@ -1,6 +1,7 @@
 ---
 name: Feature request
-about: Suggest an idea for Exemplum's WEBSITE.
+about: This template is for making  feature requests specifically for the Exemplum
+  site.
 title: My feature idea
 labels: ''
 assignees: ''
